@@ -1,0 +1,30 @@
+table {
+    margin: auto;
+    width: 100%;
+    max-width: 800px;
+    height: 800px;
+    border-collapse: collapse;
+  }
+  
+  td {
+    background: darkgray;
+    border: 5px solid black;
+    width: 130px;
+    
+  }
+  
+  .yellow {
+    background: yellow;
+  }
+  
+  .red {
+    background: red;
+  }
+  
+  .black {
+    background: black;
+  }
+  
+  .blue {
+    background: blue;
+  }
